@@ -1,0 +1,82 @@
+[
+  {
+    "name": "messages",
+    "path": "/messages",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\messages\\\\index.vue",
+    "chunkName": "pages/messages/index"
+  },
+  {
+    "name": "roles",
+    "path": "/roles",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\roles\\\\index.vue",
+    "chunkName": "pages/roles/index"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\auth\\\\login\\\\index.vue",
+    "chunkName": "pages/auth/login/index"
+  },
+  {
+    "name": "auth-registration",
+    "path": "/auth/registration",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\auth\\\\registration\\\\index.vue",
+    "chunkName": "pages/auth/registration/index"
+  },
+  {
+    "name": "settings-_",
+    "path": "/settings/:_?",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__.vue",
+    "chunkName": "pages/settings/__",
+    "children": [
+      {
+        "name": "settings-_-account",
+        "path": "account",
+        "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__\\\\account.vue",
+        "chunkName": "pages/settings/__/account"
+      },
+      {
+        "name": "settings-_-basic",
+        "path": "basic",
+        "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__\\\\basic.vue",
+        "chunkName": "pages/settings/__/basic"
+      },
+      {
+        "name": "settings-_-billing",
+        "path": "billing",
+        "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__\\\\billing.vue",
+        "chunkName": "pages/settings/__/billing"
+      },
+      {
+        "name": "settings-_-company",
+        "path": "company",
+        "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__\\\\company.vue",
+        "chunkName": "pages/settings/__/company"
+      },
+      {
+        "name": "settings-_-permissions",
+        "path": "permissions",
+        "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\settings\\\\__\\\\permissions.vue",
+        "chunkName": "pages/settings/__/permissions"
+      }
+    ]
+  },
+  {
+    "name": "users-_",
+    "path": "/users/:_",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\users\\\\__\\\\index.vue",
+    "chunkName": "pages/users/__/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Server\\\\OSPanel\\\\domains\\\\crm\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
